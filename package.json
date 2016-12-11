@@ -1,0 +1,22 @@
+{
+  "name": "electron-wx",
+  "version": "1.0.0",
+  "description": "ATOM Electron For WeChat",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "packager" : "electron-packager ./ WX --platform=win32 --icon=./icon.png --overwrite --out=./out --version=1.4.12"
+  },
+  "repository": "https://github.com/41zone/electron-wx.git",
+  "keywords": [
+    "Electron",
+    "WeChat",
+    "ATOM"
+  ],
+  "author": "Jimmy Song",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.12",
+    "electron-packager": "^8.4.0"
+  }
+}
