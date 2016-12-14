@@ -1,6 +1,6 @@
 {
   "name": "electron-wx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ATOM Electron For WeChat",
   "main": "main.js",
   "scripts": {
