@@ -15,8 +15,10 @@
   ],
   "author": "Jimmy Song",
   "license": "MIT",
+  "dependencies": {
+    "electron": "^1.4.12"
+  },
   "devDependencies": {
-    "electron": "^1.4.12",
     "electron-packager": "^8.4.0"
   }
 }
